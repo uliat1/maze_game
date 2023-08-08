@@ -1,0 +1,11 @@
+html, body {
+    background-color: #c3d2ff;
+  }
+  canvas {
+    display: block;
+  }
+
+#gener {
+  position: absolute;
+  left: 80%;
+}
